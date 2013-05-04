@@ -22,6 +22,11 @@ LESS include file and then re-use in your custom LESS framework.
         $this->routePages('themeroller','romaninsh/themeroller_extractor');
 3. Open page `themeroller` on your site.
 
+## See also
+
+For an example of a current Agile Toolkit jQuery UI theme settings, see [https://github.com/atk4/atk4/blob/master/templates/shared/css/jquery-ui-settings.less](https://github.com/atk4/atk4/blob/master/templates/shared/css/jquery-ui-settings.less)
+
+
 ## Copyright
 
 This add-on is distributed under AGPL and MIT licenses, use it for free without limitations.

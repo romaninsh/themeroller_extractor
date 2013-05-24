@@ -6,6 +6,7 @@
  */
 
 namespace romaninsh\themeroller_extractor;
+
 class page_index extends \Page
 {
     
@@ -14,15 +15,16 @@ class page_index extends \Page
     
     // header used in generated LESS code
     public $header = "// ========================================================
-// You should put your JUI theme settings here.
+//   JQuery UI theme settings / variables
+// ========================================================
+//   You can fill this by hand or use ATK addon:
+//   https://github.com/romaninsh/themeroller_extractor
 // 
-// You can fill this by hand or use ATK addon:
-// https://github.com/romaninsh/themeroller_extractor
-// 
-// It's advised to use some prefix for variables, because
+//   It's advised to use some prefix for variables, because
 // sadly LESS don't support variable namespacing yet.
-// ========================================================";
-    
+// ========================================================
+";
+
     function init()
     {
         parent::init();

@@ -24,7 +24,7 @@ LESS include file and then re-use in your custom LESS framework.
 
 ## See also
 
-For an example of a current Agile Toolkit jQuery UI theme settings, see [https://github.com/atk4/atk4/blob/master/templates/shared/css/jquery-ui-settings.less](https://github.com/atk4/atk4/blob/master/templates/shared/css/jquery-ui-settings.less)
+For an example of a current Agile Toolkit jQuery UI theme settings, see [https://github.com/atk4/atk4/blob/master/templates/shared/css/less/jui-variables.less](https://github.com/atk4/atk4/blob/master/templates/shared/css/less/jui-variables.less)
 
 
 ## Copyright
